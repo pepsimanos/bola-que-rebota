@@ -1,2 +1,2 @@
-# bola-que-rebota
-bola que rebota y controlas con el mouse
+# p5.play-boilerplate
+Boiler plate for p5.play
